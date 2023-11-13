@@ -1,0 +1,42 @@
+.heading {
+  background: rgb(151, 45, 45);
+  color: #fff;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  text-align: center;
+  margin: 0px 20px 0px 20px;
+}
+
+.subhead {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  padding-left: 30px;
+}
+
+.form {
+  margin-left: 30px;
+}
+
+.contact {
+  margin-left: 30px;
+  margin-top:  40px;
+  font-weight: 700;
+  font-size: large;
+}
+
+.contactlist {
+  margin-top: 5px; 
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20px;
+  background: rgb(237, 207, 216);
+  font-family:'Times New Roman', Times, serif;
+}
+
+.contname {
+   font-weight: 400;
+}
+
+.contemail {
+   font-weight: 100;
+}
